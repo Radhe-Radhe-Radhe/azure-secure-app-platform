@@ -21,3 +21,11 @@ GitHub Actions based deployment pipeline.
 ## Development Environment
 
 This environment is used for infrastructure testing and validation.
+
+
+
+## NSG Security Rules
+
+- Allow SSH
+- Allow HTTP
+- Deny unnecessary inbound traffic
