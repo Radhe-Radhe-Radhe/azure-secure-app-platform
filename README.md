@@ -17,3 +17,7 @@ Production-style Azure Infrastructure using:
 ## CI/CD
 
 GitHub Actions based deployment pipeline.
+
+## Development Environment
+
+This environment is used for infrastructure testing and validation.
