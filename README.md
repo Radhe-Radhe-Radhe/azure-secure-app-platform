@@ -21,3 +21,8 @@ GitHub Actions based deployment pipeline.
 ## Development Environment
 
 This environment is used for infrastructure testing and validation.
+
+## Production Security
+
+Main branch is protected using GitHub branch protection rules.
+
