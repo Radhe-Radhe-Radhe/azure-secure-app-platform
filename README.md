@@ -16,4 +16,4 @@ Production-style Azure Infrastructure using:
 
 ## CI/CD
 
-GitHub Actions based deployment pipeline.
+Azure DevOps and GitHub Actions deployment workflow.
