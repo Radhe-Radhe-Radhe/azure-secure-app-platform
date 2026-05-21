@@ -15,5 +15,4 @@ Production-style Azure Infrastructure using:
 - Prod
 
 ## CI/CD
-
-GitHub Actions based deployment pipeline with Terraform automation.
+GitHub Actions and Azure DevOps deployment pipeline with Terraform automation.
