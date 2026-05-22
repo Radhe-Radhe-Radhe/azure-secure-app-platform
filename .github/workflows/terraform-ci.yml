@@ -24,7 +24,7 @@ jobs:
       - name: Terraform Version
         run: terraform version
 
-              - name: Terraform Format Check
+      - name: Terraform Format Check
         run: terraform fmt -check
         working-directory: terraform
 
